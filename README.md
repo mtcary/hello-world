@@ -7,3 +7,6 @@ But hurry! You need to act fast so John Wick can secure the bag and achieve the 
 
 	
 *markdown is **great***
+
+and then
+*markdown is __great__*
